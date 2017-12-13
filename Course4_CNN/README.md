@@ -4,3 +4,5 @@
 * **[Week2 1st video](https://www.coursera.org/learn/convolutional-neural-networks/lecture/KvAM9/why-look-at-case-studies)**
 ### Week3
 * **[Week3 1st video](https://www.coursera.org/learn/convolutional-neural-networks/lecture/nEeJM/object-localization)**
+### Week4
+* **[Week4 1st video](https://www.coursera.org/learn/convolutional-neural-networks/lecture/lUBYU/what-is-face-recognition)**
